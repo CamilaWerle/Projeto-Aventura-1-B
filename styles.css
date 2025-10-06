@@ -1,0 +1,17 @@
+
+body {
+    background-color: #000000;
+    color: white;
+    font-family: "Grenze Gotisch", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(176, 176, 176);
+    color: rgb(15, 15, 15);
+    font-family: "Grenze Gotisch", serif;
+}
