@@ -15,3 +15,11 @@ button {
     color: rgb(15, 15, 15);
     font-family: "Grenze Gotisch", serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
