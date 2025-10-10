@@ -8,12 +8,14 @@ body {
     align-items: center;
     height: 700px;
     margin: 0;
+    font-size: 32px;
 }
 
 button {
     background-color: rgb(176, 176, 176);
     color: rgb(15, 15, 15);
     font-family: "Grenze Gotisch", serif;
+    font-size: 32px;
 }
 
 .passo {
